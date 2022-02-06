@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MischaelT
+- 👀 I’m interested in Data Science, FinanceMath
+- 🌱 I’m currently learning Machine Learning
